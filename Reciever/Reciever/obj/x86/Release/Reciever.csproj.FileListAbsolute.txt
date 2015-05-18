@@ -1,0 +1,16 @@
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\bin\Release\Reciever.exe
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\bin\Release\Reciever.pdb
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\client.Form1.resources
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\client.Properties.Resources.resources
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\Reciever.csproj.GenerateResource.Cache
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\Reciever.exe
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\Reciever.pdb
+C:\Users\Asem Muhamed\Documents\Visual Studio 2010\Projects\Reciever\Reciever\obj\x86\Release\Reciever.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\Reciever.exe
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\Reciever.pdb
+C:\Users\Hassan\Desktop\Reciever\Reciever\bin\Release\Reciever.exe
+C:\Users\Hassan\Desktop\Reciever\Reciever\bin\Release\Reciever.pdb
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\Reciever.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\client.Form1.resources
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\client.Properties.Resources.resources
+C:\Users\Hassan\Desktop\Reciever\Reciever\obj\x86\Release\Reciever.csproj.GenerateResource.Cache
